@@ -10,6 +10,7 @@ las tecnologias modernas de hoy en dia para una mejor navegacion y respuesta, co
 ## Características
 
 - Carrito de compras moderno.
+- Manejo del tema Light/Dark.
 - Productos de la marca apple.
 - Estado global administrado con ContextAPI + Reducer.
 - Rápida y ligera gracias a Vite.
